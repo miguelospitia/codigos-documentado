@@ -1,6 +1,4 @@
-•	Parte 1: Árbol.
-o	Crear una estructura de árbol que organice las ciudades jerárquicamente.
-o	Se puede crear una clase simple NodoCiudad con atributos de nombre de ciudad e hijos.
+
 #include <iostream>
 #include <vector>
 
@@ -54,10 +52,8 @@ int main() {
 
 
 
-Segundo código
-Parte 2: Grafo:
-•	Implementar un grafo donde cada ciudad es un nodo y las conexiones son las carreteras.
-•	Pueden usar una matriz de adyacencia para representar las conexiones entre ciudades.
+
+
 
 #include <iostream>
 #include <vector>
@@ -96,10 +92,8 @@ int main() {
     
 }
 
-Tercer código
-Parte 3: Mapa de distancia:
-•	Utilizar un map para almacenar las distancias entre las ciudades conectadas por las carreteras.
-•	Cada entrada del map tendrá como clave un par de ciudades, y como valor la distancia entre ellas
+
+
 
 #include <iostream>
 #include <map>
